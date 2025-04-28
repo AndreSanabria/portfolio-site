@@ -5,8 +5,8 @@ const canvasDotsBg = function () {
       'rgb(81, 162, 233)',
       'rgb(81, 162, 233)',
       'rgb(81, 162, 233)',
-      'rgb(255, 77, 90)',
-    ], // 75% of dots are blue. 25% pink
+      'rgba(110, 255, 77, 0.79)',
+    ], // 75% of dots are blue. 25% green
     color = 'rgb(81, 162, 233)';
 
   // ctx.globalAlpha = 0.8;
